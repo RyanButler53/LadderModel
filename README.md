@@ -16,3 +16,5 @@ Clone the repo and download the files
 Run the player class and the ladderSim file
 
 To use my initial baseline data, type baselineDF = pd.read_csv('baselineData.csv') to import the data as a dataframe, then arr = dfToArr(baselineDF) to convert it into an array. Finally you can input the array into the playerArr argument of any simulation function.  Note that FinalSim does not have any arguments, it simply uses the "best" ladder and runs it on a much larger scale (12 seasons, 4x the players)
+
+I originally uploaded this repositiory on my second github account NovaLight53.  I posted my findings for this investigation on reddit under that alias and wanted to preserve anonyminity. 
